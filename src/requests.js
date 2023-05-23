@@ -1,6 +1,6 @@
 //Connexion API
 
-const API_KEY = '335ba780fc245728a4d3d3e4cddaa710'
+const API_KEY = '7d068f99fd07d0f1b6abcbf076f84ab0'
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
