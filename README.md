@@ -2,3 +2,9 @@ Voici mon projet d'ecole en React Js, un clone de netflix en utilisant l'API de 
 
 
 Pour voir le projet il faut : 
+
+npm install
+
+Ensuite :
+
+npm start
